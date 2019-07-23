@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "对比度、亮度", "对比度、亮度\对比度、亮度.vcxproj", "{BB346267-A77B-4A78-80CB-5640A3FE9129}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB346267-A77B-4A78-80CB-5640A3FE9129}.Debug|x64.ActiveCfg = Debug|x64
+		{BB346267-A77B-4A78-80CB-5640A3FE9129}.Debug|x64.Build.0 = Debug|x64
+		{BB346267-A77B-4A78-80CB-5640A3FE9129}.Debug|x86.ActiveCfg = Debug|Win32
+		{BB346267-A77B-4A78-80CB-5640A3FE9129}.Debug|x86.Build.0 = Debug|Win32
+		{BB346267-A77B-4A78-80CB-5640A3FE9129}.Release|x64.ActiveCfg = Release|x64
+		{BB346267-A77B-4A78-80CB-5640A3FE9129}.Release|x64.Build.0 = Release|x64
+		{BB346267-A77B-4A78-80CB-5640A3FE9129}.Release|x86.ActiveCfg = Release|Win32
+		{BB346267-A77B-4A78-80CB-5640A3FE9129}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F659222-4472-4B88-B056-29474C57B4F8}
+	EndGlobalSection
+EndGlobal

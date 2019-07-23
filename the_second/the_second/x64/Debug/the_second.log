@@ -1,0 +1,9 @@
+﻿  the_second.cpp
+f:\vs code\code_first\the_second\the_second\the_second.cpp(14): error C3867: “cv::Mat::row”: 非标准语法；请使用 "&" 来创建指向成员的指针
+f:\vs code\code_first\the_second\the_second\the_second.cpp(14): error C2446: “<”: 没有从“cv::Mat (__cdecl cv::Mat::* )(int) const”到“int”的转换
+  f:\vs code\code_first\the_second\the_second\the_second.cpp(14): note: 没有使该转换得以执行的上下文
+f:\vs code\code_first\the_second\the_second\the_second.cpp(16): error C3867: “cv::Mat::clone”: 非标准语法；请使用 "&" 来创建指向成员的指针
+f:\vs code\code_first\the_second\the_second\the_second.cpp(16): error C3867: “cv::Mat::channels”: 非标准语法；请使用 "&" 来创建指向成员的指针
+f:\vs code\code_first\the_second\the_second\the_second.cpp(16): error C2296: “*”: 非法，左操作数包含“cv::Mat (__cdecl cv::Mat::* )(void) const”类型
+f:\vs code\code_first\the_second\the_second\the_second.cpp(16): error C2297: “*”: 非法，右操作数包含“int (__cdecl cv::Mat::* )(void) const”类型
+f:\vs code\code_first\the_second\the_second\the_second.cpp(28): error C3867: “cv::Mat::row”: 非标准语法；请使用 "&" 来创建指向成员的指针
