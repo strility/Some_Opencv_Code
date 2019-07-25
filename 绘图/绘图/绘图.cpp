@@ -35,7 +35,7 @@ void text1() {
 	DrawEllipse(atomImage, -45);
 	DrawFilledCricle(atomImage, Point(WINDOW_WIDTH / 2, WINDOW_WIDTH / 2));
 	imshow(WINDOW_NAME1, atomImage);
-	waitKey(6000);
+	waitKey();
 }
 
 
