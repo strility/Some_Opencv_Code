@@ -18,7 +18,7 @@ using namespace cv;
 void DrawEllipse(Mat img, double angle) {
 	int thickness = 2;
 	int lineType = 8;
-	ellipse(img, Point(WINDOW_WIDTH / 2, WINDOW_WIDTH / 2), Size(WINDOW_WIDTH / 4, WINDOW_WIDTH / 16), angle, 0, 360, Scalar(25, 129, 30), thickness, lineType);
+	ellipse(img, Point(WINDOW_WIDTH / 2, WINDOW_WIDTH / 2), Size(WINDOW_WIDTH / 16, WINDOW_WIDTH / 4), angle, 0, 360, Scalar(150, 150, 250), thickness, lineType);
 }
 void DrawFilledCricle(Mat img, Point center) {
 	int thickness = -1;

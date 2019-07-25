@@ -10,10 +10,10 @@ using namespace cv;
 
 int main()
 {
-	Mat scrImage = imread("F:\\vs code\\picture\\1.jpg");
+	Mat scrImage = imread("1.jpg");
 	imshow("1.jpg",scrImage);
 	imwrite("生成图.jpg", scrImage);
-	waitKey(6000);
+	//waitKey(6000);
 
 }
 
